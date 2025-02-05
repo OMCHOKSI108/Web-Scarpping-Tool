@@ -31,4 +31,15 @@ If you wish to scrape results for other institutes, degrees, semesters, or exam 
    ```bash
    git clone https://github.com/OMCHOKSI108/web-scrapper-tool.git
    cd web-scrapper-tool.git
+   ```bash
+   
+2.Installation Of required Modules 
+   ```bash
+   pip install -r requirements.txt
+   ```bash
+
+3.Run The Script  
+   ```bash
+   python Scrapper.py
+   ```bash
    
